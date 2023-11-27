@@ -1,3 +1,6 @@
 .idea
 .DS_Store
 ./assets/images/save-images
+./Save/*
+./Save
+./Save/bootstrap.css
